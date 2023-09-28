@@ -26,7 +26,7 @@ kaj
 - ŝtataneco P27
 - Kubo Q241 // aŭ alia lando!!!
 
-Filter: lando (Q6256)
+Filter: lando (Q241)
 
 ### Endpoint
 Esperantists (P106 or P1412 and P27)__200 results JSON__
@@ -60,16 +60,19 @@ SELECT DISTINCT ?item ?itemLabel WHERE {
 ## Installation
 
 ### Demo
+https://javiramoslab.github.io/Esperantists-in-Wikidata/
 
 ## Usage
 
 ## Roadmap
 If you have ideas for releases in the future, it is a good idea to list them in the README or open new Issue.
+- load animation
 
 ## Contributing
 open to contributions
 
 ## Authors and acknowledgment
+
 ### Support me
 
 ### Official Site
